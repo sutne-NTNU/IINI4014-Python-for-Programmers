@@ -1,0 +1,4 @@
+This is just a simple and short file to check if the difficulties of the words are counted correctly. I am expecting
+this file to consist of mostly easy words, and a couple more complicated ones. This file contains three sentences in
+a single paragraph, this means the average number of sentecnes should be 3, and the average number of words per
+sentence should be 22.
